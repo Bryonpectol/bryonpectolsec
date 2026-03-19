@@ -584,6 +584,12 @@ body {
   box-shadow: 0 0 24px rgba(0, 255, 170, 0.08);
 }
 
+.cert {
+   border-radius: 18px;
+   width: 200px;
+   text-align: center;
+}
+
 .cert-card h3 {
   color: #00ffaa;
   margin-bottom: 12px;
