@@ -373,6 +373,10 @@ body {
    justify-content: space-around
 }
 
+.meh2 {
+   padding-right: 5vh;
+}
+
 .mephoto {
    border-radius: 18px;
    width: 150px;
