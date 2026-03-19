@@ -374,11 +374,12 @@ body {
 
 .meh2 {
    padding-right: 8vh;
+   width: 100%;
 }
 
 .mephoto {
    border-radius: 18px;
-   width: 150px;
+   width: 125px;
    margin-right: 2vh;
 }
 
