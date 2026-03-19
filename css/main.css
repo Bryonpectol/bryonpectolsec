@@ -379,7 +379,7 @@ body {
 .mephoto {
    border-radius: 18px;
    width: 150px;
-   padding-right: 2vh;
+   margin-right: 2vh;
 }
 
 .about-card:hover {
