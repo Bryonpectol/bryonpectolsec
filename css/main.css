@@ -370,11 +370,12 @@ body {
 .mediv {
    display: flex;
    flex-direction: row;
+   justify-content: space-around
 }
 
 .mephoto {
    border-radius: 18px;
-   width: 200px;
+   width: 150px;
 }
 
 .about-card:hover {
