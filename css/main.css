@@ -374,12 +374,13 @@ body {
 }
 
 .meh2 {
-   padding-right: 5vh;
+   padding-right: 5.5vh;
 }
 
 .mephoto {
    border-radius: 18px;
    width: 150px;
+   padding-right: 1vh;
 }
 
 .about-card:hover {
