@@ -370,7 +370,6 @@ body {
 .mediv {
    display: flex;
    flex-direction: row;
-   justify-content: space-around
 }
 
 .meh2 {
